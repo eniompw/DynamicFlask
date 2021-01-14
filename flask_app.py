@@ -13,4 +13,4 @@ def res():
 @app.route('/list')
 def list():
     names = ["bob","tom","jerry"]
-    return render_template('list.html', list=names)
+    return render_template('list.html', names=names)
