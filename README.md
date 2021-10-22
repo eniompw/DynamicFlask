@@ -1,6 +1,6 @@
 # Dynamic Flask
 
-Dynamically generate HTML using Python, Flask & Pandas
+Dynamically generate HTML using Python, Flask, Jinja & Pandas
 
 * Using Jinja to edit HTML dynamically.
 [REF](https://medium.com/@mikaelagurney/add-dynamic-components-to-your-html-templates-using-form-s-flask-and-jinja-59b4169ec3e1)
