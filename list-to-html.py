@@ -12,8 +12,8 @@ s = sorted(table,key=lambda t:t[1])
 
 import pandas as pd
 
-c = ['Product', 'Price']
-df = pd.DataFrame(s, columns=c)
+col = ['Product', 'Price']
+df = pd.DataFrame(s, columns=col)
 html = '<html><head><link rel="stylesheet" href="/static/mystyle.css"></head><body>'
 html += df.to_html(index=False)
 
