@@ -3,8 +3,9 @@
 Dynamically generate HTML using Python, Flask, Jinja & Pandas
 
 * Simple Example send "Hello" from [simple.py](https://github.com/eniompw/DynamicFlask/blob/main/simple.py) to [index.html](https://github.com/eniompw/DynamicFlask/blob/main/templates/index.html)
-* Create and return HTML in Python. [list-to-html.py](https://github.com/eniompw/DynamicFlask/blob/main/list-to-html.py)
 * Send name and send a List from Python to HTML [flask_app.py](https://github.com/eniompw/DynamicFlask/blob/main/flask_app.py) [list.html](https://github.com/eniompw/DynamicFlask/blob/main/templates/list.html)
+* Create and return HTML in Python. [list-to-html.py](https://github.com/eniompw/DynamicFlask/blob/main/list-to-html.py)
+
 ## Refs
 
 * Using Jinja to edit HTML dynamically.
